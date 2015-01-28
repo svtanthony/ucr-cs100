@@ -1,1 +1,7 @@
-/ 100
+50 / 100
+
+no example of:
+-5: commands with >10 no. of params
+-15: showing lots of commands chained together, mixing and matching different operators
+-15: exit with params passed to it, exit as a param, exit in a chain of commands
+-20: comments
