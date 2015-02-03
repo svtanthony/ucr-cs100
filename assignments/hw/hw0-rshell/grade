@@ -1,7 +1,12 @@
-50 / 100
+75 / 100
 
 no example of:
 -5: commands with >10 no. of params
 -15: showing lots of commands chained together, mixing and matching different operators
 -15: exit with params passed to it, exit as a param, exit in a chain of commands
 -20: comments
+
++15 pts for connectors
++10 pts testing script
+regraded in office hours
+
